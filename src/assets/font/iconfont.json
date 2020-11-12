@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7624",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "f0008",
+      "unicode_decimal": 983048
+    },
+    {
+      "icon_id": "554455",
+      "name": "向下",
+      "font_class": "iconset0421",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "637752",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "915604",
+      "name": "分类 (1)",
+      "font_class": "fenlei1",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "1817709",
+      "name": "qq",
+      "font_class": "qq1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2025002",
+      "name": "微信",
+      "font_class": "wechat",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "3004337",
+      "name": "导航-菜单",
+      "font_class": "daohang-caidan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "4294031",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "6888734",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "7549350",
+      "name": "用户",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "7549818",
+      "name": "锁",
+      "font_class": "RectangleCopy1",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "9568044",
+      "name": "向下",
+      "font_class": "xiangxia1",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "11121430",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "14435356",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "17692221",
+      "name": "导航菜单",
+      "font_class": "daohangcaidan",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    }
+  ]
+}
